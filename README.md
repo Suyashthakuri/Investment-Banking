@@ -5,3 +5,6 @@
 
 - **Debenture Valuation Sheet**  
   Created a powerful **automated debenture valuation tool** in Excel using VBA. With just a price upload, the sheet calculates **Yield to Maturity (YTM)** and **Yield to Date**, making fixed income analysis faster, more accurate, and highly efficient.
+
+- **Algorithmic trading using machine learning**  
+  Created a powerful algorithmic trading using python using random forest regression
